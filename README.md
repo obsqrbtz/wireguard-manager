@@ -1,5 +1,9 @@
 # Wireguard-manager
 
+> Fork for using with `wofi` instead of `rofi`
+
+> Default wireguard interface name is `wg-client`
+
 This is a simple, stupid `waybar` extension for toggling `wireguard`. It uses
 `rofi` for password prompting, but you could use anything you like.
 
